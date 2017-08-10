@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ytsuzuki/Downloads/android-vision-master 2/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/ytsuzuki/Downloads/android-vision-master 2/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_33f504391a567c7087cad5cd697e310fe7790d51.jar" />
+    </item>
+    <item
+        jar="/Users/ytsuzuki/Downloads/android-vision-master 2/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/ytsuzuki/Downloads/android-vision-master 2/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_4f004f4c6f638fd61fb55e206961c838b4e5b7bc.jar" />
+    </item>
+    <item
+        jar="/Users/ytsuzuki/Downloads/android-vision-master 2/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/ytsuzuki/Downloads/android-vision-master 2/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_4f1ea301d0eb0b90d3e7be58c39d412e50922904.jar" />
+    </item>
+    <item
+        jar="/Users/ytsuzuki/Downloads/android-vision-master 2/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/ytsuzuki/Downloads/android-vision-master 2/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_3a1997f038fdd2a6c38c1620fc2c4b8fcc677e43.jar" />
+    </item>
+    <item
+        jar="/Users/ytsuzuki/Downloads/android-vision-master 2/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/ytsuzuki/Downloads/android-vision-master 2/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_dd5f6cbc7b526beaf5797141446d6a5b3a9459b4.jar" />
+    </item>
+    <item
+        jar="/Users/ytsuzuki/Downloads/android-vision-master 2/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/ytsuzuki/Downloads/android-vision-master 2/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_1e74b12bfa0e76a44e8ca7720046ec4fac4b2d19.jar" />
+    </item>
+    <item
+        jar="/Users/ytsuzuki/Downloads/android-vision-master 2/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/ytsuzuki/Downloads/android-vision-master 2/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.0_a21c550912fd104537c25d90d605a18874aedf2a.jar" />
+    </item>
+    <item
+        jar="/Users/ytsuzuki/Downloads/android-vision-master 2/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/ytsuzuki/Downloads/android-vision-master 2/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_358ef48b44ab05183d7da3e853ab8a1a71bd9259.jar" />
+    </item>
+    <item
+        jar="/Users/ytsuzuki/Downloads/android-vision-master 2/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/ytsuzuki/Downloads/android-vision-master 2/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_036a130f74d5aab61d511008572a23846b4080d0.jar" />
+    </item>
+    <item
+        jar="/Users/ytsuzuki/Downloads/android-vision-master 2/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/ytsuzuki/Downloads/android-vision-master 2/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_ab5af9bbc3c91104d4206a61c136be5019831652.jar" />
+    </item>
+    <item
+        jar="/Users/ytsuzuki/Downloads/android-vision-master 2/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/ytsuzuki/Downloads/android-vision-master 2/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.4.0_251acbf072490197987e920c81cc1e615b82db37.jar" />
+    </item>
+    <item
+        jar="/Users/ytsuzuki/Downloads/android-vision-master 2/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Users/ytsuzuki/Downloads/android-vision-master 2/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.0_41f6de0551d1661b267d24cadc3853f7726f2b80.jar" />
+    </item>
+    <item
+        jar="/Users/ytsuzuki/Downloads/android-vision-master 2/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/ytsuzuki/Downloads/android-vision-master 2/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.4.0_84263233fbca749822ff6e0085080837b1fc1745.jar" />
+    </item>
+    <item
+        jar="/Users/ytsuzuki/Downloads/android-vision-master 2/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/ytsuzuki/Downloads/android-vision-master 2/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.4.0_99a7202620c2f921a49c7d936cc643ac4d3b350a.jar" />
+    </item>
+    <item
+        jar="/Users/ytsuzuki/Downloads/android-vision-master 2/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/ytsuzuki/Downloads/android-vision-master 2/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_be484a90a30cfcd7eeaa1e0a36d42f570ed33ec9.jar" />
+    </item>
+    <item
+        jar="/Users/ytsuzuki/Downloads/android-vision-master 2/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/ytsuzuki/Downloads/android-vision-master 2/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_2b448a7b5621ef96edfb6a3959d912ad5a30611e.jar" />
+    </item>
+    <item
+        jar="/Users/ytsuzuki/Downloads/android-vision-master 2/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/ytsuzuki/Downloads/android-vision-master 2/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_ad40bd22e2e3db8990227ad329e737729319d625.jar" />
+    </item>
+    <item
+        jar="/Users/ytsuzuki/Downloads/android-vision-master 2/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/ytsuzuki/Downloads/android-vision-master 2/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_8046d39bc3afc48f85a6178e4e2538bf8c784196.jar" />
+    </item>
+    <item
+        jar="/Users/ytsuzuki/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/ytsuzuki/Downloads/android-vision-master 2/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_95d2afed2735854ad57c0615fa2ce0b6ed9e81a0.jar" />
+    </item>
+    <item
+        jar="/Users/ytsuzuki/Downloads/android-vision-master 2/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/ytsuzuki/Downloads/android-vision-master 2/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_595620a625dc51ada7011b994bce3d696c37aa6a.jar" />
+    </item>
+    <item
+        jar="/Users/ytsuzuki/Downloads/android-vision-master 2/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/Users/ytsuzuki/Downloads/android-vision-master 2/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-9.4.0_bd0406efae375a318636c3b44401aa9d4c4407e4.jar" />
+    </item>
+
+</items>
